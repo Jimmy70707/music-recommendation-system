@@ -99,17 +99,16 @@ python preprocess.py
 
 streamlit run main.py
 ```
----
 ##Input
-
+---
 Selected song title from the dataset
 ---
 #Output
-
+---
 Top recommended songs based on lyrical similarity
 ---
 ##Future Improvements
-
+---
 Optimize similarity computation for large datasets
 
 Add song preview integration (Spotify / YouTube)
@@ -117,9 +116,9 @@ Add song preview integration (Spotify / YouTube)
 Use word embeddings (Word2Vec / BERT)
 
 Improve UI with filters and recommendations score
----
-#Author
 
+#Author
+---
 Mohamed Gamal
 Machine Learning & AI Engineer
 ---

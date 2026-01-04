@@ -58,6 +58,7 @@ This project aims to solve this problem using NLP techniques and similarity metr
 ## Project Structure
 
 │music-recommendation-system/
+
 ├── preprocess.py # Data cleaning, NLP preprocessing, TF-IDF, similarity matrix
 
 ├── recommend.py # Recommendation logic
@@ -98,15 +99,15 @@ python preprocess.py
 
 streamlit run main.py
 ```
-Input
+##Input
 
 Selected song title from the dataset
 
-Output
+##Output
 
 Top recommended songs based on lyrical similarity
 
-Future Improvements
+##Future Improvements
 
 Optimize similarity computation for large datasets
 
@@ -116,7 +117,7 @@ Use word embeddings (Word2Vec / BERT)
 
 Improve UI with filters and recommendations score
 
-Author
+##Author
 
 Mohamed Gamal
 Machine Learning & AI Engineer

@@ -102,11 +102,11 @@ streamlit run main.py
 Input
 ---
 Selected song title from the dataset
----
+
 Output
 ---
 Top recommended songs based on lyrical similarity
----
+
 Future Improvements
 ---
 Optimize similarity computation for large datasets
@@ -122,4 +122,4 @@ Author
 Mohamed Gamal
 
 Machine Learning & AI Engineer
----
+

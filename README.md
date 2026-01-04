@@ -95,7 +95,11 @@ pip install -r requirements.txt
 
 python preprocess.py
 
-3.Start the Streamlit app:
+3.Run recommend file
+
+python recommend.py
+
+4.Start the Streamlit app:
 
 streamlit run main.py
 ```
